@@ -45,12 +45,13 @@ $ npm run start
 > [!NOTE]  
 > If you're using Linux Bash for Windows, [see this guide](https://www.howtogeek.com/261575/how-to-run-graphical-linux-desktop-applications-from-windows-10s-bash-shell/) or use `node` from the command prompt.
 
-You may also like...
+## You may also like...
 
 - [Tasty Trail](https://github.com/AleksandarSarbajic/the-wild-oasis) - Food ordering app
 - [The Wild Oasis](https://github.com/AleksandarSarbajic/Tasty-Trail) - Hotel service app
 - [World Wise](https://github.com/AleksandarSarbajic/WorldWise) - Countries visited tracking app
 
-License
+## License
 
+> MIT
 
