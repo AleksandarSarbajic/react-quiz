@@ -5,7 +5,7 @@
 <img src="https://img.shields.io/badge/react-v18.2.0-blue?logo=react"/>
 </div>  
 
-React Quiz is a simple quiz about React it, with 15 different questions to test your React knowledge about it.
+React Quiz is a simple quiz about React it, with 15 different questions to test your React knowledge about it. When u finish the quiz u get your points and set a personal record.
 
 
 <div align="center" style="{display: flex;}">
@@ -50,4 +50,7 @@ You may also like...
 - [Tasty Trail](https://github.com/AleksandarSarbajic/the-wild-oasis) - Food ordering app
 - [The Wild Oasis](https://github.com/AleksandarSarbajic/Tasty-Trail) - Hotel service app
 - [World Wise](https://github.com/AleksandarSarbajic/WorldWise) - Countries visited tracking app
+
+License
+
 
