@@ -26,7 +26,17 @@ React Quiz is a simple quiz about React it, with 15 different questions to test 
 
 ## Quicstart
 
-`npm run docs`
+`# Clone this repository
+$ git clone https://github.com/amitmerchant1990/electron-markdownify
+
+# Go into the repository
+$ cd electron-markdownify
+
+# Install dependencies
+$ npm install
+
+# Run the app
+$ npm start`
 
 
 Runs the app in the development mode.\
