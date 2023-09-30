@@ -18,13 +18,16 @@ React Quiz is a simple quiz about React it, with 15 different questions to test 
 
 ## Technologies Used
 
-  - [React](https://react.dev/) pure React
+  - Only [React](https://react.dev/) 
 
 ## Screenshot
 
 ![Screenshot 2023-09-30 165057](https://github.com/AleksandarSarbajic/react-quiz/assets/114814838/1ee5c5a4-14a4-4630-b0ae-ae3597da1896)
 
 ## Quicstart
+
+`kys`
+
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
