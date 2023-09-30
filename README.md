@@ -18,7 +18,7 @@ React Quiz is a simple quiz about React it, with 15 different questions to test 
 
 ## Technologies Used
 
-  - <a href="https://react.dev/" target="blank">React</a> 
+  - <a href="https://react.dev/" target="_blank" >React</a> 
 
 In the project directory, you can run:
 
