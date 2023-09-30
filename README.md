@@ -26,7 +26,7 @@ React Quiz is a simple quiz about React it, with 15 different questions to test 
 
 ## Quicstart
 
-`kys`
+`npm run docs`
 
 
 Runs the app in the development mode.\
