@@ -10,7 +10,7 @@ React Quiz is a simple quiz about React it, with 15 different questions to test 
 
 <div align="center" style="{display: flex;}">
   
-  - <a href="#Quickstart">Quickstart</a> <a href="#HowToUse">How To Use</a>
+  - <a href="#quicstart">Quickstart</a> <a href="#HowToUse">How To Use</a>
    
 </div>
 
