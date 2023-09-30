@@ -5,8 +5,7 @@
 <img src="https://img.shields.io/badge/react-v18.2.0-blue?logo=react"/>
 </div>  
 
-React Quiz is a simple quiz about React it, with 15 different questions to test your React knowledge about it. When u finish the quiz u get your points and set a personal record.
-
+<p align="center">React Quiz is a simple quiz about React it, with 15 different questions to test your React knowledge about it. When u finish the quiz u get your points and set a personal record.</p>
 
 <div align="center" style="{display: flex;}">
   
@@ -53,5 +52,5 @@ $ npm run start
 
 ## License
 
-> MIT
+**MIT**
 
