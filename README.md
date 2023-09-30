@@ -1,8 +1,19 @@
-# Getting Started with Create React App
+<h1 align="center">🤔 React Quiz made with React 🤔</h1> 
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<div align="center">
+<img src="https://img.shields.io/npm/v/npm.svg?logo=npm"/>
+<img src="https://img.shields.io/badge/react-v18.2.0-blue?logo=react"/>
+</div>  
 
-## Available Scripts
+React Quiz is a simple quiz about React it, with 15 different questions to test your React knowledge about it.
+
+&nbsp;
+
+  <a href="#Quickstart">Quickstart</a>
+
+
+
+## Technologies Used
 
 In the project directory, you can run:
 
