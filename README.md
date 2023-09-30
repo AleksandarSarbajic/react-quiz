@@ -9,7 +9,7 @@
 
 <div align="center">
   
-<a href="#quicstart" >Quickstart</a> • <a href="#technologies-used" align="center">Technologies Used</a> •  <a href="#screenshot" align="center"> screenshot </a> • <a href="#you-may-also-like" align="center"> you may also like  </a> •  <a href="#license" align="center"> license  </a> 
+<a href="#quicstart" >Quickstart</a> • <a href="#technologies-used" align="center">Technologies Used</a> •  <a href="#screenshot" align="center"> Screenshot </a> • <a href="#you-may-also-like" align="center"> You may also like  </a> •  <a href="#license" align="center"> License  </a> 
 
 </div>
 
