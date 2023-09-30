@@ -9,7 +9,7 @@
 
 <div align="center">
   
-<a href="#quicstart" >Quickstart</a> • <a href="#quicstart" align="center">Technologies Used</a> • Download • Credits • Related • License
+<a href="#quicstart" >Quickstart</a> • <a href="#technologies-used" align="center">Technologies Used</a> •  <a href="#screenshot" align="center"> screenshot </a> • <a href="#you-may-also-like" align="center"> you may also like  </a> • Related • License
 
 </div>
 
