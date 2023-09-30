@@ -29,16 +29,16 @@ React Quiz is a simple quiz about React it, with 15 different questions to test 
 To clone and run this application, you'll need [Git](https://git-scm.com/) and [NodeJS](https://nodejs.org/en) (which comes with [npm](https://www.npmjs.com/)) installed on your computer. From your command line:
 
 ```
-# Clone this repository 
+> # Clone this repository 
 $ git clone https://github.com/AleksandarSarbajic/react-quiz
 
-# Go into the repository
+> # Go into the repository
 $ cd react-quiz
 
-# Install dependencies
+> # Install dependencies
 $ npm install
 
-# Run the app
+> # Run the app
 $ npm run start
 ```
 If you're using Linux Bash for Windows, [see this guide](https://www.howtogeek.com/261575/how-to-run-graphical-linux-desktop-applications-from-windows-10s-bash-shell/) or use `node` from the command prompt.
